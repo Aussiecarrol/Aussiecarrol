@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Aussie
+- 👀 I’m interested in gaming, virtual reality, multilingual coding, and artifical inteligence
+- 🌱 I’m currently learning videogame coding and multilingual coding
